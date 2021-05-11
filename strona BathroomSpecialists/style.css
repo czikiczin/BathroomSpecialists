@@ -1,0 +1,171 @@
+body
+{
+	background-color: black;
+	margin: 0px;
+}
+div.gornypasek
+{
+	background-color: white;
+	width:100%;
+	height:110px;
+	position: fixed;
+}
+div.logo
+{
+		background-color: white;
+		width: 30%;
+		height: 110px;
+		float: left;
+}
+img.logo
+{
+	margin-top: 0px;
+	margin-left: 250px;
+	width: 40%;
+	
+}
+
+
+
+div.tekst1
+{
+	padding-top:25px;
+	color: black;
+	Font-size: 50px;
+	
+	
+}
+div.tekst2
+{
+	
+	Font-size:23px;
+}
+div.tekst2 a
+{
+	text-decoration:none;
+	color:black;
+}
+div.tekst3
+{
+	margin-left:500px;
+	color: gray;
+	Font-size: 20px;
+	
+}
+div.tekst4
+{
+	margin-left:450px;
+	color: gray;
+	Font-size: 20px;
+	
+}
+
+div.tekst5
+{
+	padding-top:200px;
+	margin-left:450px;
+	Font-size:30px;
+	
+}
+
+div.tekst6
+{
+	color:white; 
+	margin-top:50px;
+	Font-size:50px;
+}
+div.tekst7
+{
+	color:white;
+	margin-top:20px;
+	Font-size:30px;
+}
+div.tekst8
+{
+	color:white;
+	position:center;
+	Font-size:25px;
+	padding-top:50px;
+	
+	
+}
+div.tekst9
+{
+	Font-size:40px;
+	color:white;
+}
+
+
+img.img6
+{
+width:100%;
+height:100%;	
+}
+
+div.tekst10
+{
+	
+	
+	Font-size:20px;
+	color:white;
+	
+}
+img.img7
+{
+	width:100%;
+height:100%;
+}
+.bath
+{
+	text-align: center;
+}
+
+.bath img
+{
+	width: 100%;
+	height: auto;
+}
+
+.bath p
+{
+	margin-bottom: 30px;
+}
+
+.bath figcaption
+{
+	margin-top: 8px;
+}
+img.img14
+{
+width:100%;
+height:100%;	
+}
+img.img2
+{
+width:100%;
+height:100%;	
+}
+img.img5
+{
+width:100%;
+height:100%;	
+}
+h1
+{
+	color:white;
+	text-align: center;
+}
+p
+{
+	color:white;
+}
+a
+{
+	color:white;
+	
+}
+a:hover
+{
+	color:orange;
+}
+
